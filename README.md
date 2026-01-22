@@ -1,7 +1,7 @@
 Privacy Policy
 Smart Salon App
 Developer: Kamran Khan
-Email: Kamranvirtualzx@gmail.com
+Email: smartsalon.business@gmail.com
 Effective Date: January 22, 2026
 Smart Salon is a salon booking and management application designed for both salon owners and customers. Your privacy is very important to us. This Privacy Policy explains how we collect, use, store, and protect your information.
 1. Information We Collect
@@ -52,14 +52,12 @@ You have full control over your data:
 •	You can update your profile
 •	You can delete your account
 •	You can request data removal anytime by contacting us
-Email: Kamranvirtualzx@gmail.com
-7. Children’s Privacy
-Smart Salon is not intended for children under 13 years of age. We do not knowingly collect data from children.
-8. Changes to This Policy
+Email: smartsalon.business@gmail.com
+7. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be updated inside the app and on the Play Store listing.
-9. Contact Us
+8. Contact Us
 If you have any questions about this Privacy Policy, contact us at:
-📧 Kamranvirtualzx@gmail.com
+📧 smartsalon.business@gmail.com
 Terms & Conditions
 Smart Salon App
 1. Acceptance of Terms
@@ -87,4 +85,4 @@ We may update features, services, and pricing at any time to improve the experie
 We reserve the right to suspend or terminate accounts violating these terms.
 8. Contact
 For any support:
-📧 Kamranvirtualzx@gmail.com
+📧 smartsalon.business@gmail.com
